@@ -1,0 +1,1 @@
+A responsive subscription plan UI inspired by CodePen designs, intended for developers who want to integrate a clean and modern pricing section into their websites.
